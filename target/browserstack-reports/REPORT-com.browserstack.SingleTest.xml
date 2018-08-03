@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="com.browserstack.SingleTest">
+<testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.test{1}" index="1" name="test" package="com.browserstack">
+<session>709cffcd1f3345ee9a3f53d88a970e8c6f8823f2</session>
+<projectType>AUTOMATE</projectType>
+</testcase>
+<testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.test{2}" index="2" name="test" package="com.browserstack">
+<session>8a9db72dfeb5cc1d70bf555deccb8a871c8490bd</session>
+<projectType>AUTOMATE</projectType>
+</testcase>
+<testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.test{3}" index="3" name="test" package="com.browserstack">
+<session>92fc2e7ae79d7a3ce143931972887b934e5a086e</session>
+<projectType>AUTOMATE</projectType>
+</testcase>
+<testcase class="SingleTest" classname="com.browserstack.SingleTest" id="com.browserstack.SingleTest.test{0}" index="0" name="test" package="com.browserstack">
+<session>82e058e55fa0b4ee943a85fda0f3bf10cbed7280</session>
+<projectType>AUTOMATE</projectType>
+</testcase>
+</testsuite>
